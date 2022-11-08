@@ -1,3 +1,7 @@
+## Ссылкка на [github-pages](https://bualeksandr.github.io/http_frontend/)
+
+[![Build status](https://ci.appveyor.com/api/projects/status/9vyaf8r9s8e95npv?svg=true)](https://ci.appveyor.com/project/BuAleksandr/http-frontend)
+
 ### HelpDesk: Frontend
 
 #### Легенда
